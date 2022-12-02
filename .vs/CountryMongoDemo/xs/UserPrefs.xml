@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{12E14E30-852E-49FA-9241-0E9345EA3E37}|Default">
+  <MonoDevelop.Ide.ItemProperties.CountryMongoDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CountryMongoDemo" expanded="True">
+            <Node name="CountryMongoDemo" expanded="True" selected="True">
+              <Node name="countryMongoDemo" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
